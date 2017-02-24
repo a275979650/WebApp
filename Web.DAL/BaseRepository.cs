@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Web.Model;
@@ -32,7 +33,7 @@ namespace Web.DAL
         }
 
         //实现对数据库的查询  --简单查询
-        public IQueryable<T> LoadEntities(Func<T, bool> whereLambda)
+        public IQueryable<T> LoadEntities(Expression<Func<T, bool>> whereLambda)
         {
             return db.Set<T>().Where<T>(whereLambda).AsQueryable();
         }
@@ -57,7 +58,7 @@ namespace Web.DAL
         /// <param name="orderByLambda">根据那个字段进行排序</param>
 
         /// <returns></returns>
-        public IQueryable<T> LoadPageEntities<S>(int pageIndex, int pageSize, out  int total, Func<T, bool> whereLambda,
+        public IQueryable<T> LoadPageEntities<S>(int pageIndex, int pageSize, out  int total, Expression<Func<T, bool>> whereLambda,
             bool isAsc, Func<T, S> orderByLambda)
         {
             var temp = db.Set<T>().Where<T>(whereLambda);
