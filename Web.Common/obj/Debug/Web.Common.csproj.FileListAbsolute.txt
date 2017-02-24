@@ -1,0 +1,4 @@
+E:\textProject\WebApp\Web.Common\bin\Debug\Web.Common.dll
+E:\textProject\WebApp\Web.Common\bin\Debug\Web.Common.pdb
+E:\textProject\WebApp\Web.Common\obj\Debug\Web.Common.dll
+E:\textProject\WebApp\Web.Common\obj\Debug\Web.Common.pdb

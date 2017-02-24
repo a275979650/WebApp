@@ -1,0 +1,16 @@
+E:\textProject\WebApp\Web.BLL\obj\Debug\Web.BLL.csprojResolveAssemblyReference.cache
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.BLL.dll
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.BLL.pdb
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.DAL.dll
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.IBLL.dll
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.Model.dll
+E:\textProject\WebApp\Web.BLL\bin\Debug\WebIDAL.dll
+E:\textProject\WebApp\Web.BLL\bin\Debug\EntityFramework.dll
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.DAL.pdb
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.IBLL.pdb
+E:\textProject\WebApp\Web.BLL\bin\Debug\Web.Model.pdb
+E:\textProject\WebApp\Web.BLL\bin\Debug\WebIDAL.pdb
+E:\textProject\WebApp\Web.BLL\bin\Debug\EntityFramework.xml
+E:\textProject\WebApp\Web.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\textProject\WebApp\Web.BLL\obj\Debug\Web.BLL.dll
+E:\textProject\WebApp\Web.BLL\obj\Debug\Web.BLL.pdb

@@ -1,0 +1,16 @@
+E:\textProject\WebApp\Web.DAL\obj\Debug\Web.DAL.csprojResolveAssemblyReference.cache
+E:\textProject\WebApp\Web.DAL\bin\Debug\Web.DAL.dll.config
+E:\textProject\WebApp\Web.DAL\bin\Debug\Web.DAL.dll
+E:\textProject\WebApp\Web.DAL\bin\Debug\Web.DAL.pdb
+E:\textProject\WebApp\Web.DAL\bin\Debug\EntityFramework.dll
+E:\textProject\WebApp\Web.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\textProject\WebApp\Web.DAL\bin\Debug\Web.Model.dll
+E:\textProject\WebApp\Web.DAL\bin\Debug\WebIDAL.dll
+E:\textProject\WebApp\Web.DAL\bin\Debug\Web.Model.pdb
+E:\textProject\WebApp\Web.DAL\bin\Debug\WebIDAL.pdb
+E:\textProject\WebApp\Web.DAL\bin\Debug\EntityFramework.xml
+E:\textProject\WebApp\Web.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\textProject\WebApp\Web.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\textProject\WebApp\Web.DAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\textProject\WebApp\Web.DAL\obj\Debug\Web.DAL.dll
+E:\textProject\WebApp\Web.DAL\obj\Debug\Web.DAL.pdb

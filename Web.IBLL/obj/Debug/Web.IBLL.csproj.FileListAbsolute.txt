@@ -1,0 +1,9 @@
+E:\textProject\WebApp\Web.IBLL\bin\Debug\Web.IBLL.dll
+E:\textProject\WebApp\Web.IBLL\bin\Debug\Web.IBLL.pdb
+E:\textProject\WebApp\Web.IBLL\bin\Debug\Web.Model.dll
+E:\textProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.dll
+E:\textProject\WebApp\Web.IBLL\bin\Debug\Web.Model.pdb
+E:\textProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.xml
+E:\textProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.csprojResolveAssemblyReference.cache
+E:\textProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.dll
+E:\textProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.pdb

@@ -1,0 +1,9 @@
+E:\textProject\WebApp\WebIDAL\bin\Debug\WebIDAL.dll
+E:\textProject\WebApp\WebIDAL\bin\Debug\WebIDAL.pdb
+E:\textProject\WebApp\WebIDAL\bin\Debug\Web.Model.dll
+E:\textProject\WebApp\WebIDAL\bin\Debug\EntityFramework.dll
+E:\textProject\WebApp\WebIDAL\bin\Debug\Web.Model.pdb
+E:\textProject\WebApp\WebIDAL\bin\Debug\EntityFramework.xml
+E:\textProject\WebApp\WebIDAL\obj\Debug\WebIDAL.csprojResolveAssemblyReference.cache
+E:\textProject\WebApp\WebIDAL\obj\Debug\WebIDAL.dll
+E:\textProject\WebApp\WebIDAL\obj\Debug\WebIDAL.pdb

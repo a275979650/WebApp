@@ -1,0 +1,12 @@
+E:\textProject\WebApp\Web.Model\bin\Debug\Web.Model.dll.config
+E:\textProject\WebApp\Web.Model\bin\Debug\Web.Model.dll
+E:\textProject\WebApp\Web.Model\bin\Debug\Web.Model.pdb
+E:\textProject\WebApp\Web.Model\bin\Debug\EntityFramework.dll
+E:\textProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\textProject\WebApp\Web.Model\bin\Debug\MySql.Data.dll
+E:\textProject\WebApp\Web.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\textProject\WebApp\Web.Model\bin\Debug\EntityFramework.xml
+E:\textProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\textProject\WebApp\Web.Model\obj\Debug\Web.Model.dll
+E:\textProject\WebApp\Web.Model\obj\Debug\Web.Model.pdb
+E:\textProject\WebApp\Web.Model\obj\Debug\Web.Model.csprojResolveAssemblyReference.cache

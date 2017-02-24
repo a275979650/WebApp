@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataModel.Store" Alias="Self" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.6" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DataModelStoreContainer">
+    <EntitySet Name="UserInfoSet" EntityType="DataModel.Store.UserInfoSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RoleSet" EntityType="DataModel.Store.RoleSet" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="UserInfoSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UName" Type="varchar" Nullable="true" MaxLength="32" />
+    <Property Name="Pwd" Type="varchar" Nullable="true" MaxLength="16" />
+  </EntityType>
+  <EntityType Name="RoleSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoleName" Type="varchar" Nullable="true" MaxLength="32" />
+  </EntityType>
+</Schema>

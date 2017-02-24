@@ -1,0 +1,49 @@
+﻿@{
+
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+
+    <title>实现用户的增删改查</title>
+
+    @*添加Jquery EasyUI的样式*@
+
+    <link href="~/Content/JqueryEasyUI/themes/default/easyui.css" rel="stylesheet" />
+
+    <link href="~/Content/JqueryEasyUI/themes/icon.css" rel="stylesheet" />
+
+    @*添加Jquery，EasyUI和easyUI的语言包的JS文件*@
+
+    <script src="~/Content/JqueryEasyUI/jquery.min.js"></script>
+
+    <script src="~/Content/JqueryEasyUI/jquery.easyui.min.js"></script>
+
+    <script src="~/Content/JqueryEasyUI/locale/easyui-lang-zh_CN.js"></script>
+
+    @*实现对EasyUI的DataGird控件操作的JS代码*@
+
+    <script type="text/javascript" src="~/Scripts/JS/datagrid.js"></script>
+
+</head>
+
+<body>
+
+    <div>
+
+        <!-----------------------EasyUI的DataGird控件的放置----------------------->
+
+        <table id="test" style="width: 700px" title="用户操作" iconcls="icon-edit"></table>
+
+    </div>
+
+</body>
+
+</html>
