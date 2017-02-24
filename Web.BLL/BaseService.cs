@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Linq;
+using System.Linq.Expressions;
 using Web.DAL;
-
+using Web.IDAL;
 namespace Web.BLL
 {
     public abstract class BaseService<T> where T : class, new()
@@ -35,13 +36,13 @@ namespace Web.BLL
             return _DbSession.SaveChanges() > 0;
         }
 
-        public IQueryable<T> LoadEntities(Func<T, bool> whereLambda)
+        public IQueryable<T> LoadEntities(Expression<Func<T, bool>> whereLambda)
         {
             return CurrentRepository.LoadEntities(whereLambda);
         }
 
-        public IQueryable<T> LoadPageEntities<S>(int pageIndex, int pageSize, out int total, Func<T, bool> whereLambda,
-            bool isAsc, Func<T, S> orderByLambda)
+        public IQueryable<T> LoadPageEntities<S>(int pageIndex, int pageSize, out int total, Expression<Func<T, bool>> whereLambda,
+            bool isAsc, Expression<Func<T, S>> orderByLambda)
         {
             return CurrentRepository
                 .LoadPageEntities(pageIndex, pageSize, out total, whereLambda, isAsc, orderByLambda);

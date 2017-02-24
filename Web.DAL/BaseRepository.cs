@@ -59,7 +59,7 @@ namespace Web.DAL
 
         /// <returns></returns>
         public IQueryable<T> LoadPageEntities<S>(int pageIndex, int pageSize, out  int total, Expression<Func<T, bool>> whereLambda,
-            bool isAsc, Func<T, S> orderByLambda)
+            bool isAsc, Expression<Func<T, S>> orderByLambda)
         {
             var temp = db.Set<T>().Where<T>(whereLambda);
             total = temp.Count(); //得到总的条数
