@@ -658,6 +658,25 @@
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\JS\datagrid.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Content\CSS\bootstrap.min.css" />
+    <Content Include="Content\CSS\login.css" />
+    <Content Include="Content\CSS\supersized.css" />
+    <Content Include="Content\Images\1.png" />
+    <Content Include="Content\Images\0.jpg" />
+    <Content Include="Content\Images\backgrounds\1.jpg" />
+    <Content Include="Content\Images\backgrounds\2.jpg" />
+    <Content Include="Content\Images\backgrounds\3.jpg" />
+    <Content Include="Content\Images\captcha.jpeg" />
+    <Content Include="Content\Images\error.png" />
+    <Content Include="Content\Images\loading.gif" />
+    <Content Include="Content\Images\logo.png" />
+    <Content Include="Scripts\html5.js" />
+    <Content Include="Scripts\jquery.form.js" />
+    <Content Include="Scripts\JS\login.js" />
+    <Content Include="Scripts\JS\scripts.js" />
+    <Content Include="Scripts\JS\supersized-init.js" />
+    <Content Include="Scripts\supersized.3.2.7.min.js" />
+    <Content Include="Scripts\JS\tooltips.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -680,6 +699,7 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\web.config" />
     <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Content\Images\backgrounds\Thumbs.db" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -719,7 +739,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>60115</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>

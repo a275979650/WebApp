@@ -7,3 +7,12 @@ E:\textProject\WebApp\WebIDAL\bin\Debug\EntityFramework.xml
 E:\textProject\WebApp\WebIDAL\obj\Debug\Web.IDAL.csprojResolveAssemblyReference.cache
 E:\textProject\WebApp\WebIDAL\obj\Debug\WebIDAL.dll
 E:\textProject\WebApp\WebIDAL\obj\Debug\WebIDAL.pdb
+D:\GitProject\WebApp\WebIDAL\bin\Debug\WebIDAL.dll
+D:\GitProject\WebApp\WebIDAL\bin\Debug\WebIDAL.pdb
+D:\GitProject\WebApp\WebIDAL\bin\Debug\Web.Model.dll
+D:\GitProject\WebApp\WebIDAL\bin\Debug\EntityFramework.dll
+D:\GitProject\WebApp\WebIDAL\bin\Debug\Web.Model.pdb
+D:\GitProject\WebApp\WebIDAL\bin\Debug\EntityFramework.xml
+D:\GitProject\WebApp\WebIDAL\obj\Debug\Web.IDAL.csprojResolveAssemblyReference.cache
+D:\GitProject\WebApp\WebIDAL\obj\Debug\WebIDAL.dll
+D:\GitProject\WebApp\WebIDAL\obj\Debug\WebIDAL.pdb

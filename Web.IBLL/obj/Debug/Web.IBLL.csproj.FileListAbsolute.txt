@@ -7,3 +7,12 @@ E:\textProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.xml
 E:\textProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.csprojResolveAssemblyReference.cache
 E:\textProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.dll
 E:\textProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.pdb
+D:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.IBLL.dll
+D:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.IBLL.pdb
+D:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.Model.dll
+D:\GitProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.dll
+D:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.Model.pdb
+D:\GitProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.xml
+D:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.csprojResolveAssemblyReference.cache
+D:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.dll
+D:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.pdb
