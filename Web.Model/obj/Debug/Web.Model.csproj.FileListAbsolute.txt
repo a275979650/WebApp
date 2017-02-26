@@ -10,3 +10,15 @@ E:\textProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
 E:\textProject\WebApp\Web.Model\obj\Debug\Web.Model.dll
 E:\textProject\WebApp\Web.Model\obj\Debug\Web.Model.pdb
 E:\textProject\WebApp\Web.Model\obj\Debug\Web.Model.csprojResolveAssemblyReference.cache
+D:\GitProject\WebApp\Web.Model\bin\Debug\Web.Model.dll.config
+D:\GitProject\WebApp\Web.Model\bin\Debug\Web.Model.dll
+D:\GitProject\WebApp\Web.Model\bin\Debug\Web.Model.pdb
+D:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.dll
+D:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitProject\WebApp\Web.Model\bin\Debug\MySql.Data.dll
+D:\GitProject\WebApp\Web.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.xml
+D:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.csprojResolveAssemblyReference.cache
+D:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.dll
+D:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.pdb
