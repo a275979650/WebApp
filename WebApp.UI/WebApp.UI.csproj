@@ -662,7 +662,7 @@
     <Content Include="Content\CSS\login.css" />
     <Content Include="Content\CSS\supersized.css" />
     <Content Include="Content\Images\1.png" />
-    <Content Include="Content\Images\0.jpg" />
+    <Content Include="Content\Images\backgrounds\0.jpg" />
     <Content Include="Content\Images\backgrounds\1.jpg" />
     <Content Include="Content\Images\backgrounds\2.jpg" />
     <Content Include="Content\Images\backgrounds\3.jpg" />

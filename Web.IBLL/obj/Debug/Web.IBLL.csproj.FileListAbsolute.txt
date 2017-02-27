@@ -16,3 +16,12 @@ D:\GitProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.xml
 D:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.csprojResolveAssemblyReference.cache
 D:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.dll
 D:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.pdb
+E:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.IBLL.dll
+E:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.IBLL.pdb
+E:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.Model.dll
+E:\GitProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.dll
+E:\GitProject\WebApp\Web.IBLL\bin\Debug\Web.Model.pdb
+E:\GitProject\WebApp\Web.IBLL\bin\Debug\EntityFramework.xml
+E:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.csprojResolveAssemblyReference.cache
+E:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.dll
+E:\GitProject\WebApp\Web.IBLL\obj\Debug\Web.IBLL.pdb
