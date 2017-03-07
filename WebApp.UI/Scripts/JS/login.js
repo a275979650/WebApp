@@ -20,14 +20,14 @@
 					show_err_msg('用户名还没填呢！');	
 					$('#UName').focus();
 				} 
-                //else if (!myReg.test($('#UName').val())) {
-				//	show_err_msg('您的邮箱格式错咯！');
-				//	$('#UName').focus();
-			    //}
 			    else if($('#password').val() == ''){
 					show_err_msg('密码还没填呢！');
 					$('#password').focus();
-				}else{
+			    }
+			    else if ($('#j_captcha').val()) {
+			        show_err_msg('验证码还没填呢！');
+			        $('#j_captcha').focus();
+			    }else {
 					//ajax提交表单，#login_form为表单的ID。 如：$('#login_form').ajaxSubmit(function(data) { ... });
 			        LoginUserInfo();
 				    ClickRemoveChangeCode();
@@ -39,9 +39,9 @@
 		    var postData = {
 		        UName: $("#UName").val(),
 		        Pwd: $("#password").val(),
-		        code: $("#j_captcha").val()
+		        Code: $("#j_captcha").val()
 		    };
-		    $.post("",
+		    $.post("/Login/CheckUserInfo",
 		        postData,
 		        function(data) {
 		            if (data == "OK") {
