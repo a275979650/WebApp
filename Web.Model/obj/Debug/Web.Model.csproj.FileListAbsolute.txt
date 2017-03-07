@@ -22,3 +22,15 @@ D:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.csprojResolveAssemblyReference.cache
 D:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.dll
 D:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.pdb
+E:\GitProject\WebApp\Web.Model\bin\Debug\Web.Model.dll.config
+E:\GitProject\WebApp\Web.Model\bin\Debug\Web.Model.dll
+E:\GitProject\WebApp\Web.Model\bin\Debug\Web.Model.pdb
+E:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.dll
+E:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitProject\WebApp\Web.Model\bin\Debug\MySql.Data.dll
+E:\GitProject\WebApp\Web.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.xml
+E:\GitProject\WebApp\Web.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.csprojResolveAssemblyReference.cache
+E:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.dll
+E:\GitProject\WebApp\Web.Model\obj\Debug\Web.Model.pdb

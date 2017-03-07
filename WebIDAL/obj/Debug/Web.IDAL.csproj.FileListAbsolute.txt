@@ -16,3 +16,12 @@ D:\GitProject\WebApp\WebIDAL\bin\Debug\EntityFramework.xml
 D:\GitProject\WebApp\WebIDAL\obj\Debug\Web.IDAL.csprojResolveAssemblyReference.cache
 D:\GitProject\WebApp\WebIDAL\obj\Debug\WebIDAL.dll
 D:\GitProject\WebApp\WebIDAL\obj\Debug\WebIDAL.pdb
+E:\GitProject\WebApp\WebIDAL\bin\Debug\WebIDAL.dll
+E:\GitProject\WebApp\WebIDAL\bin\Debug\WebIDAL.pdb
+E:\GitProject\WebApp\WebIDAL\bin\Debug\Web.Model.dll
+E:\GitProject\WebApp\WebIDAL\bin\Debug\EntityFramework.dll
+E:\GitProject\WebApp\WebIDAL\bin\Debug\Web.Model.pdb
+E:\GitProject\WebApp\WebIDAL\bin\Debug\EntityFramework.xml
+E:\GitProject\WebApp\WebIDAL\obj\Debug\Web.IDAL.csprojResolveAssemblyReference.cache
+E:\GitProject\WebApp\WebIDAL\obj\Debug\WebIDAL.dll
+E:\GitProject\WebApp\WebIDAL\obj\Debug\WebIDAL.pdb
