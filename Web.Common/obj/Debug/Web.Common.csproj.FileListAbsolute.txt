@@ -2,3 +2,8 @@ E:\textProject\WebApp\Web.Common\bin\Debug\Web.Common.dll
 E:\textProject\WebApp\Web.Common\bin\Debug\Web.Common.pdb
 E:\textProject\WebApp\Web.Common\obj\Debug\Web.Common.dll
 E:\textProject\WebApp\Web.Common\obj\Debug\Web.Common.pdb
+E:\GitProject\WebApp\Web.Common\bin\Debug\Web.Common.dll
+E:\GitProject\WebApp\Web.Common\bin\Debug\Web.Common.pdb
+E:\GitProject\WebApp\Web.Common\obj\Debug\Web.Common.csprojResolveAssemblyReference.cache
+E:\GitProject\WebApp\Web.Common\obj\Debug\Web.Common.dll
+E:\GitProject\WebApp\Web.Common\obj\Debug\Web.Common.pdb

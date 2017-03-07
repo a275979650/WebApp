@@ -657,6 +657,7 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\JS\datagrid.js" />
+    <Content Include="Scripts\JS\securitycode.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Content\CSS\bootstrap.min.css" />
     <Content Include="Content\CSS\login.css" />
@@ -677,7 +678,9 @@
     <Content Include="Scripts\JS\supersized-init.js" />
     <Content Include="Scripts\supersized.3.2.7.min.js" />
     <Content Include="Scripts\JS\tooltips.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -715,6 +718,10 @@
     <ProjectReference Include="..\Web.BLL\Web.BLL.csproj">
       <Project>{828e6d70-4b2a-4369-9634-0a2afdba79b3}</Project>
       <Name>Web.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.Common\Web.Common.csproj">
+      <Project>{2F158609-86ED-4A3B-A135-020014BCB309}</Project>
+      <Name>Web.Common</Name>
     </ProjectReference>
     <ProjectReference Include="..\Web.IBLL\Web.IBLL.csproj">
       <Project>{91cd3250-2152-4026-b69e-1d4abfc1f8c3}</Project>

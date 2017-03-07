@@ -163,3 +163,5 @@ E:\GitProject\WebApp\WebApp.UI\bin\zh-Hans\System.Web.Mvc.resources.dll
 E:\GitProject\WebApp\WebApp.UI\obj\Debug\WebApp.UI.csprojResolveAssemblyReference.cache
 E:\GitProject\WebApp\WebApp.UI\obj\Debug\WebApp.UI.dll
 E:\GitProject\WebApp\WebApp.UI\obj\Debug\WebApp.UI.pdb
+E:\GitProject\WebApp\WebApp.UI\bin\Web.Common.dll
+E:\GitProject\WebApp\WebApp.UI\bin\Web.Common.pdb
