@@ -24,9 +24,9 @@
 					show_err_msg('密码还没填呢！');
 					$('#password').focus();
 			    }
-			    else if ($('#j_captcha').val()) {
+			    else if ($('#code').val()=='') {
 			        show_err_msg('验证码还没填呢！');
-			        $('#j_captcha').focus();
+			        $('#code').focus();
 			    }else {
 					//ajax提交表单，#login_form为表单的ID。 如：$('#login_form').ajaxSubmit(function(data) { ... });
 			        LoginUserInfo();
@@ -39,17 +39,18 @@
 		    var postData = {
 		        UName: $("#UName").val(),
 		        Pwd: $("#password").val(),
-		        Code: $("#j_captcha").val()
+		        Code: $("#code").val()
 		    };
 		    $.post("/Login/CheckUserInfo",
 		        postData,
 		        function(data) {
 		            if (data == "OK") {
-		                show_msg('登录成功咯！  正在为您跳转...', '/');
-		                widows.location.href = "/UserInfo/GetAllUserInfos";
+		                //show_msg('登录成功咯！  正在为您跳转...', '/');
+		                location.href = "/UserInfo/Index";
+		                
 		            } else {
 		                alert(data);
-		                window.location.href = "/Login/Index";
+		                location.href = "/Login/Index";
 		            }
 		        });
 		}

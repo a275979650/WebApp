@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Mvc;
 using Web.BLL;
 using Web.IBLL;
+using Web.Model;
+
 namespace WebApp.UI.Controllers
 {
     public class UserInfoController : Controller
@@ -48,6 +50,8 @@ namespace WebApp.UI.Controllers
             return Json(result, JsonRequestBehavior.AllowGet);
 
         }
+
+       
 
     }
 }
