@@ -46,7 +46,7 @@
 		        function(data) {
 		            if (data == "OK") {
 		                //show_msg('登录成功咯！  正在为您跳转...', '/');
-		                location.href = "/UserInfo/Index";
+		                location.href = "/Home/Index";
 		                
 		            } else {
 		                alert(data);
